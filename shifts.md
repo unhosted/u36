@@ -2,8 +2,8 @@ shifts: "morning" 10-14, "afternoon" 14-18, "evening" 18-22
 
            Adrian Michiel Niklas
 Mon 17 Jun  --+    ++-     ---
-Tue 18 Jun  ++-    ++-    
-Wed 19 Jun         +--    
+Tue 18 Jun  -++    ++-     -++
+Wed 19 Jun         +-+     --+
 Thu 20 Jun         ++-    
 Fri 21 Jun         ++-    
 Sat 22 Jun         ++-    
