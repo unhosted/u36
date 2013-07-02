@@ -1,14 +1,27 @@
-# Jun 2013 start: 0 end: -1161
-in: 400 whs + 1100 nlnetN + 1500 nlnetM = 3000
-out: 1180 N + 1070 M + 1180 A + 600 desks + 83 un.ht reg + 30 rackspace + 18 twitterdisobedience.org reg = 4161
+# Jun 2013 start: 0 end: -1001 (-881?)
+in = 3000 (3100?):
+* 400 whs
+* 1100 (1200?) nlnetN
+* 1500 nlnetM
+out = 4001 (3981?):
+* 1180 (1160?) N
+* 1070 M
+* 1000 A
+* 600 desks
+* 83 un.ht reg
+* 30 rackspace
+* 18 twitterdisobedience.org reg
+* 20 lift key Adrian
 
 # Jul 2013 start: -1161 end: -2421
 in: 400 whs + 1100 nlnetN + 1500 nlnetM = 3000
 out: 1180 N + 1070 M + 1180 A + 600 desks + 200 OHM + 30 rackspace = 4260
 
-# Aug 2013 start: -2421 end: -3481
+# Aug 2013 start: -2421 end: -5000
 in: 400 whs + 1100 nlnetN + 1500 nlnetM = 3000
-out: 1180 N + 1070 M + 1180 A + 600 desks + 30 rackspace = 4060
+out: 1180 N + 1070 M + 1180 A + 600 desks + 30 rackspace + 1000 design + 519 buffer fund = 5579
+
+-> launch twitterdisobedience.org and start crowdfunding campaign at -5000
 
 # Sep 2013 - Aug 2014:
 base costs: 1180 N + 1070 M + 1180 A + 600 desks + 30 rackspace = 4060
