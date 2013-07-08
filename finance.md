@@ -40,3 +40,10 @@ jun: 4960
 jul: 5060
 aug: 5160
 total: 54,763
+
+# transactions:
+4 june (M) 238.00 desks June (one desk incl. tax)
+? june (N->A) 250 eur
+1 july (M->A) 680 eur
+? july (N->A) another 100 eur?
+8 july (M) 255.85 desks July (one desk incl. tax and bounce fee)
