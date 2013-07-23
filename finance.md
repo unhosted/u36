@@ -1,49 +1,39 @@
-# Jun 2013 start: 0 end: -1001 (-881?)
-in = 3000 (3100?):
-* 400 whs
-* 1100 (1200?) nlnetN
-* 1500 nlnetM
-out = 4001 (3981?):
-* 1180 (1160?) N
-* 1070 M
-* 1000 A
-* 600 desks
-* 83 un.ht reg
-* 30 rackspace
-* 18 twitterdisobedience.org reg
-* 20 lift key Adrian
+# Jun 2013 start: 0 end: 0+3100-3609=-509
+in = 400+1200+1500=3100:
+(N) 400 whs
+(N) 1200 nlnetN
+(M) 1500 nlnetM
+out = 1160+1070+1000+238+83+30+18+10=3609:
+(N) 1160 N
+(M) 1070 M
+* 1000 A ->
+  (N) 250 + 70(? or 100?)
+  (M) 680
+(M) 238 desks
+(M) 83 un.ht reg
+(M) 30 rackspace
+(M) 18 twitterdisobedience.org reg
+(M) 10 lift key Adrian
 
-# Jul 2013 start: -1161 end: -2421
-in: 400 whs + 1100 nlnetN + 1500 nlnetM = 3000
-out: 1180 N + 1070 M + 1180 A + 600 desks + 200 OHM + 30 rackspace = 4260
+kept safe by N: 1600-1160-250-70=120
+kept safe by M: 1500-1070-680-238-83-30-18-10=-629
 
-# Aug 2013 start: -2421 end: -5000
-in: 400 whs + 1100 nlnetN + 1500 nlnetM = 3000
-out: 1180 N + 1070 M + 1180 A + 600 desks + 30 rackspace + 1000 design + 519 buffer fund = 5579
+# Jul 2013 start: -509 end: -509+3400-3507=-616
+in: 400+1200+1500+300=3400
+(N) 400 whs
+(N) 1200 nlnetN 
+(M) 1500 nlnetM
+(M) 300 tosdr
+out: 1160 + 1070 + 785 + 256 + 200 + 30 + 6 = 3507
+(N) 1160 N
+(M) 1070 M
+(A)  785 A
+(M)  256 desks
+(M)  200 OHM
+(M)   30 rackspace
+(M)    6 serverdragon
 
--> launch twitterdisobedience.org and start crowdfunding campaign at -5000
+kept safe by N: 120+400+1200-1160=560
+kept safe by A: 0-785=-785
+kept safe by M: -629+1500+300-1070-256-200-30-6=-391
 
-# Sep 2013 - Aug 2014:
-base costs: 1180 N + 1070 M + 1180 A + 600 desks + 30 rackspace = 4060
-server costs per 1000 users: 100
-
-# budget based on 1000 users/month growth:
-sep: 4160
-oct: 4260
-nov: 4360
-dec: 4460
-jan: 4560
-mar: 4660
-apr: 4760
-may: 4860
-jun: 4960
-jul: 5060
-aug: 5160
-total: 54,763
-
-# transactions:
-4 june (M) 238.00 desks June (one desk incl. tax)
-? june (N->A) 250 eur
-1 july (M->A) 680 eur
-? july (N->A) another 100 eur?
-8 july (M) 255.85 desks July (one desk incl. tax and bounce fee)
