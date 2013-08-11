@@ -15,9 +15,9 @@ out = 1160+1070+1000+238+83+30+18+10=3609:
 (M) 18 twitterdisobedience.org reg
 (M) 10 lift key Adrian
 
-kept safe by N: 1600-1160-250-100=90
-kept safe by A: 250+100+680-1000=30
-kept safe by M: 1500-1070-680-238-83-30-18-10=-629
+kept safe by N: 1600-1160-250-100             =   90
+kept safe by A: 250+100+680-1000              =   30
+kept safe by M: 1500-1070-680-238-83-30-18-10 = -629
 
 # Jul 2013 start: -509 end: -509+3400-3436=-545
 in: 400+1200+1500+300=3400
@@ -34,9 +34,12 @@ out: 1160 + 1070 + 785 + 256 + 129 + 30 + 6 = 3436
 (M)   30 rackspace
 (M)    6 serverdragon
 
-kept safe by N: 90+400+1200-1160=530
-kept safe by A: 30-785=-755
-kept safe by M: -629+1500+300-1070-256-129-30-6=-320
+M->A 85
+N->A 485
+
+kept safe by N: 90+400+1200-1160-485               =   45
+kept safe by A: 30-785+485+85                      = -185
+kept safe by M: -629+1500+300-1070-256-129-30-6-85 = -405
 
 # Aug 2013 start: -545 end: 0
 in: 400+1200+1500+400+300=3800
@@ -52,9 +55,9 @@ out: 1160 + 1070 + 785 + 238 + 2 = 3255
 (M) 238 desks
 (M) 2 serverdragon //actually 6 dollars, but rounding down so we end at zero.
 
-kept safe by N: 530+400+1200-1160=970
-kept safe by M: -320+1500+300-1070-238-2=170
-kept safe by A: -755+400-785=-1140
+M->A 85
+N->A 485
 
-Michiel to transfer 170 to Adrian at the end of August
-Niklas to transfer 970 to Adrian at the end of August
+kept safe by N: 45+400+1200-1160-485        = 0
+kept safe by M: -405+1500+300-1070-238-2-85 = 0
+kept safe by A: -185+400-785+570            = 0
