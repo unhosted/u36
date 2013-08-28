@@ -34,28 +34,30 @@ out: 1160 + 1070 + 785 + 256 + 129 + 30 + 6 = 3436
 (M)   30 rackspace
 (M)    6 serverdragon
 
-N->A 420
+M->A 85
+N->A 485
 
-kept safe by N: 90+400+1200-1160-420               =  110
-kept safe by A: 30-785+420                         = -335
-kept safe by M: -629+1500+300-1070-256-129-30-6    = -320
+kept safe by N: 90+400+1200-1160-485               =   45
+kept safe by A: 30-785+485+85                      = -185
+kept safe by M: -629+1500+300-1070-256-129-30-6-85 = -405
 
 # Aug 2013 start: -545 end: 0
-in: 400+1200+1500+400=3500
+in: 400+1200+1500+400+300=3800
 (N) 400 whs
 (N) 1200 nlnetN
 (M) 1500 nlnetM
 (A) 400 whs
-out: 1160 + 1070 + 485 + 238 + 2 = 2955
+(M) 300 tosdr
+out: 1160 + 1070 + 785 + 238 + 2 = 3255
 (N) 1160 N
 (M) 1070 M
-(A) 785-300=485 A
+(A) 785 A
 (M) 238 desks
 (M) 2 serverdragon //actually 6 dollars, but rounding down so we end at zero.
 
-N->A 420
-N->M 130
+M->A 85
+N->A 485
 
-kept safe by N: 110+400+1200-1160-420-130 = 0
-kept safe by A: -335+400-485+420          = 0
-kept safe by M: -320+1500-1070-238-2+130  = 0
+kept safe by N: 45+400+1200-1160-485        = 0
+kept safe by M: -405+1500+300-1070-238-2-85 = 0
+kept safe by A: -185+400-785+570            = 0
