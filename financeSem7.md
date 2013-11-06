@@ -55,3 +55,9 @@ co-working: 35+141.50 TL
 
 total october so far: 46.49+148.01+(4+1+2+2+5+2+5+4+2+2+40)*10=884.50
 
+
+30 oct: 5 hours + 30 TL coworking space
+31 oct: 5 hours + 30 TL coworking space
+travel costs: IST->NL, NL->BER: Leiden University
+extra 9.80 + 11.05 + 23.50 + 17 eur -> tosdr?
+6 nov: 5 hours
