@@ -61,3 +61,6 @@ total october so far: 46.49+148.01+(4+1+2+2+5+2+5+4+2+2+40)*10=884.50
 travel costs: IST->NL, NL->BER: Leiden University
 extra 9.80 + 11.05 + 23.50 + 17 eur -> tosdr?
 6 nov: 5 hours
+
+US trip: 10 * 8 hours, 225 eur acc Portland, TODO: check what i paid for the flights, - 1300 USD
+20 nov: 2 hours
