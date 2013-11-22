@@ -64,3 +64,5 @@ extra 9.80 + 11.05 + 23.50 + 17 eur -> tosdr?
 
 US trip: 10 * 8 hours, 225 eur acc Portland, TODO: check what i paid for the flights, - 1300 USD
 20 nov: 2 hours
+21 nov: 6 hours (desk: 22 eur)
+22 nov: 6 hours (desk: 12 eur)
