@@ -66,3 +66,7 @@ US trip: 10 * 8 hours, 225 eur acc Portland, TODO: check what i paid for the fli
 20 nov: 2 hours
 21 nov: 6 hours (desk: 22 eur)
 22 nov: 6 hours (desk: 12 eur)
+23/24 nov: 4 hours
+25 nov: 8 hours
+
+vincent: 7 hours (still need to transfer)
