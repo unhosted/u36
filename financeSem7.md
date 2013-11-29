@@ -27,9 +27,7 @@ U 10 sept: 14.01 GoDaddy
 U 19 sept: 11.30 Gandi
 U 20 sept: 14.40 Gandi
 
-U (72 euros to jan for remotestorage.io)
-
-total owed september: 880+136.47+72=1088.47
+total owed september: 880+136.47=1016.47
 
 worked Unhosted October: COMM
 wed 2 oct: 4
@@ -53,20 +51,27 @@ co-working: 35+141.50 TL
 
 (45+30+150+35+141.5 = 401 TRY -> 148.01 EUR)
 
-total october so far: 46.49+148.01+(4+1+2+2+5+2+5+4+2+2+40)*10=884.50
+total october: 46.49+148.01+(4+1+2+2+5+2+5+4+2+2+40)*10=884.50 (CUMM: 1016.47+884.50=1900.97)
 
 
 30 oct: 5 hours + 30 TL coworking space
 31 oct: 5 hours + 30 TL coworking space
 travel costs: IST->NL, NL->BER: Leiden University
-extra 9.80 + 11.05 + 23.50 + 17 eur -> tosdr?
+extra 9.80 + 11.05 + 23.50 + 17 eur -> 61.35
 6 nov: 5 hours
 
-US trip: 10 * 8 hours, 225 eur acc Portland, TODO: check what i paid for the flights, - 1300 USD
+US trip: 10 * 8 hours, 225 eur acc Portland
 20 nov: 2 hours
 21 nov: 6 hours (desk: 22 eur)
 22 nov: 6 hours (desk: 12 eur)
 23/24 nov: 4 hours
-25 nov: 8 hours
+week of 25 nov: 8+5+8+8+8=37 hours
+paid last Unhosted e.V. tax 28 Nov, 45.65 EUR
+received 1300 from nlnet for milestone 10
+worked: (5+5+5+80+2+6+6+4+37)*10 = 1500 
+paid: (30+30)*0.3691 + 61.35+225+22+12+45.65 = 388.15
+total november: 1500 + 388.15 - 1300 = 588.15 (CUMM: 1900.98+588.15=2489.13)
 
-vincent: 7 hours (still need to transfer)
+TODO: check what i paid for the flights, - 1300 USD
+Jon: 3 hour (still need to transfer)
+-> should send 72 euros to Jan for remotestorage.io reg (not done yet)
